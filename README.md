@@ -1,7 +1,7 @@
 
 t: hubot-fail
 
-[![Build Status](https://travis-ci.org/jbasalone/hubot-fail.png?branch=master)](https://travis-ci.org/jbasalone/hubot-fail)
+
 
 Image Generator based on the word 'fail' for Hubots.
 
